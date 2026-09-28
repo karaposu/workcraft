@@ -405,7 +405,7 @@ Its strength depends on what the evidence actually says:
 | A project record links to a repository or internal page | That location is a concrete recovery route. Its accessibility and sufficiency still need checking. |
 | A person's role sounds relevant, with no evidence connecting them to the particular work | The role alone does not establish that they know the answer. |
 
-The AI should keep the source statement and its own inference distinguishable. “Morgan coordinated this trial, so Morgan may help locate the results” is different from “Morgan has the results.”
+The AI should keep the source statement and its own inference distinguishable. “A coworker coordinated this trial, so they may help locate the results” is different from “That coworker has the results.”
 
 Time and scope matter. Evidence about a previous trial can be a useful lead without establishing the outcome of the current trial.
 

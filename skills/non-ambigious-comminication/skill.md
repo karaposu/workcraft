@@ -1,7 +1,7 @@
 
 ---
 name: non-ambiguous-communication
-description: Write and revise AI explanations so Enes can identify what is being discussed and understand its meaning without reconstructing earlier conversations. Use when an answer needs explicit referents, prerequisite context, concrete actions or clearer relationships between its points.
+description: Write and revise AI explanations so the user can identify what is being discussed and understand its meaning without reconstructing earlier conversations. Use when an answer needs explicit referents, prerequisite context, concrete actions or clearer relationships between its points.
 ---
 
 # Non-ambiguous communication
@@ -10,7 +10,7 @@ description: Write and revise AI explanations so Enes can identify what is being
 
 Communication lets a reader understand another person's account of the work. That understanding depends on knowing what the words refer to, how the things being discussed relate, and why the present point matters.
 
-When an AI omits that meaning, Enes must recover it through questions such as “which project?”, “a row of what?”, “start doing what?” or “why are we discussing this?”. Recovering the meaning becomes extra work before he can use the answer. This is the communication friction the skill addresses.
+When an AI omits that meaning, the user must recover it through questions such as “which project?”, “a row of what?”, “start doing what?” or “why are we discussing this?”. Recovering the meaning becomes extra work before they can use the answer. This is the communication friction the skill addresses.
 
 ## The central problem
 
@@ -20,7 +20,7 @@ The agreed problem definition is:
 >
 > Every answer therefore needs to restore the prerequisite context for that answer: identifiable, searchable names; what those things represent; how they relate; and why the present point matters. I should be able to understand and direct the work without reconstructing earlier conversations.
 
-Enes moves between several pieces of work. He may recognise a name without remembering its role or the discussion that made it relevant. Write with that difference between the AI's working context and the reader's remembered context in mind.
+The user moves between several pieces of work. They may recognise a name without remembering its role or the discussion that made it relevant. Write with that difference between the AI's working context and the reader's remembered context in mind.
 
 ## What non-ambiguity means here
 

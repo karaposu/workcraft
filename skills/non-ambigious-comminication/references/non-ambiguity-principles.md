@@ -3,7 +3,7 @@
 
 ## The reader and the required result
 
-Write for Enes, who usually knows the direction of the work but may not remember its detailed context. He should be able to identify the things being discussed, understand what they mean and follow their connections without reconstructing earlier conversations.
+Write for the user, who usually knows the direction of the work but may not remember its detailed context. They should be able to identify the things being discussed, understand what they mean and follow their connections without reconstructing earlier conversations.
 
 These principles address the meaning carried by an explanation. Apply them in proportion to the question and the reader's need. The examples below illustrate wording and intended meaning; they do not assert current project facts.
 
@@ -91,7 +91,7 @@ needs to establish context of what, examples for what, and usable for which task
 
 **Principle.** Include the background the reader needs to understand this answer. Explain the relevant prior event, reason or distinction before relying on it.
 
-Enes may remember the broad goal while forgetting why a particular object, example or earlier discussion entered the work. Defining a word alone will not answer a question about that history.
+The user may remember the broad goal while forgetting why a particular object, example or earlier discussion entered the work. Defining a word alone will not answer a question about that history.
 
 An explanation may need to establish:
 

@@ -33,7 +33,7 @@ Read the current target, governing request and `ComCritic.md` in full. Read supp
 | [Meaning and fidelity](comm-critic-d/references/meaning-and-fidelity.md) | Required answers, supported claims, actual status, intended openness and retained corrections. |
 | [Recipient and purpose](comm-critic-d/references/recipient-and-purpose.md) | The intended aspect, useful detail, presentation, voice and supporting references. |
 | [Operational communication](comm-critic-d/references/operational-communication.md) | Progress briefings, decision requests and coordination messages. |
-| [Enes's author preferences](comm-critic-d/references/enes-author-preferences.md) | Communication in Enes's name, within each item's stated conditions. |
+| [Author preferences](comm-critic-d/references/author-preferences.md) | Communication in the author's name, within each item's stated conditions. |
 
 Use these shared checks to judge revisions; this protocol governs the revision operation. Their links to the critic entrypoint do not instruct you to run another critique.
 

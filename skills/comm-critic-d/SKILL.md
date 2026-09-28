@@ -22,7 +22,7 @@ Resolve these paths relative to this `SKILL.md` file.
 | [Meaning and fidelity](references/meaning-and-fidelity.md) | Shared checks for required answers, supported claims, actual status, intended openness and retained corrections. |
 | [Recipient and purpose](references/recipient-and-purpose.md) | Shared checks for the relevant aspect, level of detail, readability, voice and usable supporting references. |
 | [Operational communication](references/operational-communication.md) | Supplementary checks applied to progress briefings, decision requests and coordination messages. |
-| [Enes's author preferences](references/enes-author-preferences.md) | Supplementary checks applied to outgoing communication in Enes's name, respecting each item's narrower conditions. |
+| [Author preferences](references/author-preferences.md) | Supplementary checks applied to outgoing communication in the author's name, respecting each item's narrower conditions. |
 
 Reading is mandatory; applicability remains conditional. Consider every shared concern without manufacturing a finding for every item. These files organise checks, not a fixed category taxonomy.
 

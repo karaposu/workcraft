@@ -21,7 +21,7 @@ At every invocation, read all six guides below in full into active context. Comp
 | [Meaning and fidelity](../comm-critic-d/references/meaning-and-fidelity.md) | Required answers, supported claims, status, corrections and intended openness. |
 | [Recipient and purpose](../comm-critic-d/references/recipient-and-purpose.md) | The aspect, useful detail, voice and usable references required by this exchange. |
 | [Operational communication](../comm-critic-d/references/operational-communication.md) | Apply when the contribution is an operational briefing, coordination message or genuine request. |
-| [Enes's author preferences](../comm-critic-d/references/enes-author-preferences.md) | Apply only to communication authored in Enes's name within each item's scope, not simply because he receives the message. |
+| [Author preferences](../comm-critic-d/references/author-preferences.md) | Apply only to communication authored in the author's name within each item's scope, not simply because the author receives the message. |
 | [Supporting Context](../orchestrator-inbound-communication/references/supporting-context.md) | Inbound contribution, generous reference access, visible questions, evidence and supporting explanations. |
 
 Resolve paths from this file. These shared checks apply under this entrance's inbound scope. Reading is mandatory; each item's application remains conditional. Use all four fields of a check together, including its limits.
