@@ -150,7 +150,7 @@ Ordinary Surfacing produces two things:
 - **Active source material:** the contents read into the AI's working context, tagged for relevance.
 - **A saved trace:** identifiers, source locations, relevance tags, actual coverage and remaining source needs.
 
-The [Surfacing specification](/Users/nsstorm/.agents/skills/surfacing/references/surfacing.md) explicitly separates these products. A source list cannot supply a qualification that exists only in the original passage.
+The Surfacing specification explicitly separates these products. A source list cannot supply a qualification that exists only in the original passage.
 
 fixcomm must keep the necessary contents usable for the next stage. If they have been lost or another executor needs them, the relevant sources must be recovered before substantive judgment.
 
@@ -172,7 +172,7 @@ The exact parent policy for responding to these returns is still a separate coor
 
 ### Inherited Commitments Re-test
 
-The synthesis uses the [workflow finding](../../research/inquiries/2026-09-26_17-21__surfacing-critique-fold-communication-workflow/finding.md), [ordinary Surfacing](/Users/nsstorm/.agents/skills/surfacing/references/surfacing.md), [comm-critic-d](../../artifacts/skills/comm-critic-d/SKILL.md) and [comm-revise](../../artifacts/protocols/comm-revise.md). The meaning-and-fidelity and recipient-and-purpose guides supplied additional direct checks.
+The synthesis uses the [workflow finding](../../research/inquiries/2026-09-26_17-21__surfacing-critique-fold-communication-workflow/finding.md), ordinary Surfacing, [comm-critic-d](../../artifacts/skills/comm-critic-d/SKILL.md) and [comm-revise](../../artifacts/protocols/comm-revise.md). The meaning-and-fidelity and recipient-and-purpose guides supplied additional direct checks.
 
 These are source-grounded conceptual re-tests and hypothetical countercases.
 
@@ -441,7 +441,7 @@ This is a general context capability with a communication-specific use. It does 
 | **[comm-critic-d](../../artifacts/skills/comm-critic-d/SKILL.md)**, the diagnostic skill | Identify supported communication risks and propose remedies in ComCritic.md. A missing required answer may be discovered here too. |
 | **[comm-revise](../../artifacts/protocols/comm-revise.md)**, the correction protocol | Apply supported changes, return unmet requirements and identify a partial result when essential meaning remains unresolved. |
 
-The current [Surfacing specification](/Users/nsstorm/.agents/skills/surfacing/references/surfacing.md) already distinguishes recovered contents from a saved source trace and returns unfinished territory. Its role stops short of deciding how a communication should proceed.
+The current Surfacing specification already distinguishes recovered contents from a saved source trace and returns unfinished territory. Its role stops short of deciding how a communication should proceed.
 
 The [unplugged-surfacing design](../../research/inquiries/2026-09-27_10-06__unplugged-surfacing-general-structure/finding.md) adds coordinated investigation and integration. It can preserve and develop recovery leads across several sources. It remains an optional larger mechanism for this capability.
 
@@ -759,7 +759,7 @@ No separate README is needed to explain the normal entrypoint. No finding, prior
 
 #### 3. Which rules to carry over from Traverse
 
-The inspected [Traverse entrance](/Users/nsstorm/.agents/skills/traverse/SKILL.md) supplies a useful execution pattern: load the real discipline, execute it fully, check its saved output, record the handoff, then continue.
+The inspected Traverse entrance supplies a useful execution pattern: load the real discipline, execute it fully, check its saved output, record the handoff, then continue.
 
 Carry these requirements into fixcomm's own language:
 
@@ -1458,7 +1458,7 @@ These are responsibility distinctions. A single action can serve several of them
 
 For example, while shaping a scene, the AI may learn from a preview and immediately revise its composition. Semantic Formulation and artifact creation interact inside that work. The framework does not require the AI to stop and transfer control between separate “thinking” and “making” agents.
 
-The original [concept notes](/Users/nsstorm/Desktop/projects/AIOpsMan/core/ai-operations-manager-concept-notes.md:356) already treat the five working capabilities as aspects of work, with Alignment and Orchestration across them.
+The original concept notes already treat the five working capabilities as aspects of work, with Alignment and Orchestration across them.
 
 #### 3. The essential relationship to execution
 
@@ -1474,7 +1474,7 @@ For a concrete action, we should be able to understand:
 
 These are questions for understanding an application, not a new mandatory form for every small operation.
 
-The existing [orchestration playbook](/Users/nsstorm/Desktop/projects/AIOpsMan/core/orchestration-playbook-v1.md:381) already includes concrete action execution, capability and access checks, and reconciliation of uncertain results. Execution is therefore not wholly absent from the existing framework.
+The existing orchestration playbook already includes concrete action execution, capability and access checks, and reconciliation of uncertain results. Execution is therefore not wholly absent from the existing framework.
 
 The broader Craft explanation should make that relationship easy to see. A framework application includes domain execution; a concept diagram alone does not supply it.
 
@@ -1549,18 +1549,18 @@ The finding draws on five existing project documents. The statuses below concern
 
 | Commitment and source | Re-test status | Evidence and result |
 |---|---|---|
-| Seven working concepts; [concept notes §2](/Users/nsstorm/Desktop/projects/AIOpsMan/core/ai-operations-manager-concept-notes.md:24). | **RE-TESTED — commitment confirmed but frame revised** | Native, live, minimal and exploratory cases in [first comparison](../../research/inquiries/2026-09-27_16-19__craft-autonomous-digital-work-applicability/docarchive/innovation_iter1.md) and [action traces](../../research/inquiries/2026-09-27_16-19__craft-autonomous-digital-work-applicability/docarchive/innovation_iter2.md) support a broader work scope. No universal completeness proved. |
-| Five capabilities with Alignment and Orchestration across them; [concept notes, working practice](/Users/nsstorm/Desktop/projects/AIOpsMan/core/ai-operations-manager-concept-notes.md:356). | **RE-TESTED — commitment confirmed** | Small tasks and fused creative work challenge a mandatory sequence; [second critique](../../research/inquiries/2026-09-27_16-19__craft-autonomous-digital-work-applicability/docarchive/critique_iter2.md) preserves responsibility roles. |
-| Appropriate deliverables, often Markdown; [concept notes, Artifacts](/Users/nsstorm/Desktop/projects/AIOpsMan/core/ai-operations-manager-concept-notes.md:266). | **RE-TESTED — commitment confirmed but frame revised** | Native products retain the role; live-state/no-change cases prevent Artifacts from absorbing every effect. [First comparison](../../research/inquiries/2026-09-27_16-19__craft-autonomous-digital-work-applicability/docarchive/innovation_iter1.md). |
+| Seven working concepts; concept notes §2. | **RE-TESTED — commitment confirmed but frame revised** | Native, live, minimal and exploratory cases in [first comparison](../../research/inquiries/2026-09-27_16-19__craft-autonomous-digital-work-applicability/docarchive/innovation_iter1.md) and [action traces](../../research/inquiries/2026-09-27_16-19__craft-autonomous-digital-work-applicability/docarchive/innovation_iter2.md) support a broader work scope. No universal completeness proved. |
+| Five capabilities with Alignment and Orchestration across them; concept notes, working practice. | **RE-TESTED — commitment confirmed** | Small tasks and fused creative work challenge a mandatory sequence; [second critique](../../research/inquiries/2026-09-27_16-19__craft-autonomous-digital-work-applicability/docarchive/critique_iter2.md) preserves responsibility roles. |
+| Appropriate deliverables, often Markdown; concept notes, Artifacts. | **RE-TESTED — commitment confirmed but frame revised** | Native products retain the role; live-state/no-change cases prevent Artifacts from absorbing every effect. [First comparison](../../research/inquiries/2026-09-27_16-19__craft-autonomous-digital-work-applicability/docarchive/innovation_iter1.md). |
 | Context includes acquisition, reconciliation and retention; [automation ladder](../../core/automation_ladder.md). | **RE-TESTED — commitment confirmed** | Native dependencies and later correction use require accurate context, while retained data alone does not establish skill or learning. [Final understanding](../../research/inquiries/2026-09-27_16-19__craft-autonomous-digital-work-applicability/docarchive/sensemaking.md). |
-| Task-dependent Pulse; [concept notes §8](/Users/nsstorm/Desktop/projects/AIOpsMan/core/ai-operations-manager-concept-notes.md:308). | **RE-TESTED — commitment confirmed** | Closed, waiting and ongoing cases need different revisits; actual scheduling remains an implementation requirement. [Action traces](../../research/inquiries/2026-09-27_16-19__craft-autonomous-digital-work-applicability/docarchive/innovation_iter2.md). |
-| Alignment uses explicit expectations and suitable evidence, including qualitative criteria; [concept notes §7](/Users/nsstorm/Desktop/projects/AIOpsMan/core/ai-operations-manager-concept-notes.md:280). | **RE-TESTED — commitment confirmed** | Creative/research cases preserve qualitative and provisional meaning. [Final critique](../../research/inquiries/2026-09-27_16-19__craft-autonomous-digital-work-applicability/docarchive/critique.md). |
-| Actual action execution and observed outcomes; [playbook §11–13](/Users/nsstorm/Desktop/projects/AIOpsMan/core/orchestration-playbook-v1.md:381). | **RE-TESTED — commitment confirmed** | Live-state and uncertain-return traces have concrete performers and observation responsibilities. [Second critique](../../research/inquiries/2026-09-27_16-19__craft-autonomous-digital-work-applicability/docarchive/critique_iter2.md). |
-| Use delegated authority and retain scoped learning; [playbook §9 and §14](/Users/nsstorm/Desktop/projects/AIOpsMan/core/orchestration-playbook-v1.md:329). | **RE-TESTED — commitment confirmed** | Conflicting demands and stored-rule/later-behavior distinction tested against literal source clauses. [Final critique](../../research/inquiries/2026-09-27_16-19__craft-autonomous-digital-work-applicability/docarchive/critique.md). |
-| Development priorities reflect this project's needs; [automation ladder, Purpose](/Users/nsstorm/Desktop/projects/AIOpsMan/core/automation_ladder.md:5). | **RE-TESTED — commitment confirmed** | A design or software task need not use the same development order. The ladder explicitly separates implementation priorities from concept importance; this inquiry preserves that separation. |
+| Task-dependent Pulse; concept notes §8. | **RE-TESTED — commitment confirmed** | Closed, waiting and ongoing cases need different revisits; actual scheduling remains an implementation requirement. [Action traces](../../research/inquiries/2026-09-27_16-19__craft-autonomous-digital-work-applicability/docarchive/innovation_iter2.md). |
+| Alignment uses explicit expectations and suitable evidence, including qualitative criteria; concept notes §7. | **RE-TESTED — commitment confirmed** | Creative/research cases preserve qualitative and provisional meaning. [Final critique](../../research/inquiries/2026-09-27_16-19__craft-autonomous-digital-work-applicability/docarchive/critique.md). |
+| Actual action execution and observed outcomes; playbook §11–13. | **RE-TESTED — commitment confirmed** | Live-state and uncertain-return traces have concrete performers and observation responsibilities. [Second critique](../../research/inquiries/2026-09-27_16-19__craft-autonomous-digital-work-applicability/docarchive/critique_iter2.md). |
+| Use delegated authority and retain scoped learning; playbook §9 and §14. | **RE-TESTED — commitment confirmed** | Conflicting demands and stored-rule/later-behavior distinction tested against literal source clauses. [Final critique](../../research/inquiries/2026-09-27_16-19__craft-autonomous-digital-work-applicability/docarchive/critique.md). |
+| Development priorities reflect this project's needs; automation ladder, Purpose. | **RE-TESTED — commitment confirmed** | A design or software task need not use the same development order. The ladder explicitly separates implementation priorities from concept importance; this inquiry preserves that separation. |
 | fixcomm handles existing outgoing communication through context, critique and supported revision; [fixcomm entrypoint](../../artifacts/skills/fixcomm/SKILL.md). | **RE-TESTED — commitment confirmed** | Its actual root contract, read in full, remains narrower than the whole work framework. [First critique](../../research/inquiries/2026-09-27_16-19__craft-autonomous-digital-work-applicability/docarchive/critique_iter1.md) tests that boundary; no scope expansion is inferred. |
 | Unplugged surfacing coordinates bounded context investigations through actual Surfacing calls; [unplugged-surfacing entrypoint](../../artifacts/skills/unplugged-surfacing/SKILL.md). | **RE-TESTED — commitment confirmed** | Full entrypoint read distinguishes real calls/results from trace records or imagined workers. [First understanding](../../research/inquiries/2026-09-27_16-19__craft-autonomous-digital-work-applicability/docarchive/sensemaking_iter1.md) and [first innovation grounding](../../research/inquiries/2026-09-27_16-19__craft-autonomous-digital-work-applicability/docarchive/innovation_iter1.md) preserve it as a component, not a complete runtime. |
-| The project has not demonstrated a universal autonomous agent; [concept notes, Purpose](/Users/nsstorm/Desktop/projects/AIOpsMan/core/ai-operations-manager-concept-notes.md:7) and [playbook, Evidence and limits](/Users/nsstorm/Desktop/projects/AIOpsMan/core/orchestration-playbook-v1.md:29). | **RE-TESTED — commitment confirmed** | Source status and actual component scope match a conceptual framework with partial packaged capabilities. No live domain task was run here. |
+| The project has not demonstrated a universal autonomous agent; concept notes, Purpose and playbook, Evidence and limits. | **RE-TESTED — commitment confirmed** | Source status and actual component scope match a conceptual framework with partial packaged capabilities. No live domain task was run here. |
 
 ### Next Actions
 

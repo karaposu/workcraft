@@ -344,7 +344,7 @@ Unplugged Surfacing supplies a concrete way to recover this wider basis. It can 
 
 #### 2. The reusable component already exists
 
-The [packaged Unplugged Surfacing entrance](/Users/nsstorm/Desktop/projects/AIOpsMan/artifacts/skills/unplugged-surfacing/SKILL.md:22) accepts a task, purpose, starting material, constraints, source environment, work allowance and prior context account. Its operation does not require an outgoing message or a particular recipient.
+The packaged Unplugged Surfacing entrance accepts a task, purpose, starting material, constraints, source environment, work allowance and prior context account. Its operation does not require an outgoing message or a particular recipient.
 
 It already maintains an account containing:
 
@@ -387,7 +387,7 @@ The communication owner supplies the current purpose and relevant work. The disc
 
 The coordinator retains applicable coverage, investigates changed or uncovered scope, and reports consequential work it cannot complete within the bounds.
 
-This comparison is already part of the [coordinator's continuation and resume instructions](/Users/nsstorm/Desktop/projects/AIOpsMan/artifacts/skills/unplugged-surfacing/SKILL.md:138). A familiar topic, an existing context file or a fluent draft cannot substitute for it.
+This comparison is already part of the coordinator's continuation and resume instructions. A familiar topic, an existing context file or a fluent draft cannot substitute for it.
 
 For example, earlier work may have established how an experiment was configured. A new communication may need to explain whether its result supports a wider conclusion. The configuration facts remain useful, but they do not establish that the result or its limitations were investigated.
 
